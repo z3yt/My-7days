@@ -10,3 +10,5 @@ def sieve_of_eratosthenes(n):
     return [i for i in range(n+1) if primes[i]]
 
 print(sieve_of_eratosthenes(100))
+
+//NewGen
